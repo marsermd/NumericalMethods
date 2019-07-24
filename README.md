@@ -1,6 +1,18 @@
 # NumericalMethods
 
+## Polymerization equation in 3D
+```
+Polymerization.py
+```
+Explicit Euler simulation of a exothermic self-supporting polymerization reaction. Executed on GPU using tensorflow.
+
+[video](https://youtu.be/W4XXaB0VvbE)
+
+
 ## Solvers for partial differential equations
+```
+LinearDifferentialEqSolvers.ipynb
+```
 
 Implemented:
 - Explicit Euler
