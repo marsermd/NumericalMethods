@@ -37,7 +37,7 @@ Pygments==2.2.0
 pyparsing==2.2.2
 python-dateutil==2.7.5
 pywinpty==0.5.4
-PyYAML==3.13
+PyYAML==5.4
 pyzmq==17.1.2
 qtconsole==4.4.2
 scipy==1.1.0
