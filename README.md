@@ -6,7 +6,7 @@ Polymerization.py
 ```
 Explicit Euler simulation of a exothermic self-supporting polymerization reaction. Executed on GPU using tensorflow.
 
-[video](https://youtu.be/W4XXaB0VvbE)
+[![video](https://j.gifs.com/nxnLZR.gif)](https://youtu.be/W4XXaB0VvbE)
 
 
 ## Solvers for partial differential equations
